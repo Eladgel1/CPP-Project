@@ -1,6 +1,6 @@
-#**CPP Project**
+**CPP Project**
 
-##A first year project presenting a zoo management program.
+A first year project presenting a zoo management program.
 The system presents the user a menu where he can perform a several actions such as adding/deleting an animal from the zoo,
 Printing/changing an element of a particular animal according to its index, etc...
 
